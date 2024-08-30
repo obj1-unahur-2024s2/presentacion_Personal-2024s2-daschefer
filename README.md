@@ -3,8 +3,10 @@
 
 # Presentacion Personal:
 
-Nombre: Diego Schefer.
+### Nombre: Diego Schefer.
+
 Apodo: Sheshu.
+
 Profesión: Asistente de Sistemas.
 
 Hobbys: Coleccionar Computadoras Antiguas (del 80´ al Y2K)
