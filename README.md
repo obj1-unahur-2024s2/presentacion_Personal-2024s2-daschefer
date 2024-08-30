@@ -3,17 +3,20 @@
 
 # Presentacion Personal:
 
-Nombre: Diego Schefer
-Apodo: Sheshu
+Nombre: Diego Schefer.
+Apodo: Sheshu.
 Profesión: Asistente de Sistemas.
 
 Hobbys: Coleccionar Computadoras Antiguas (del 80´ al Y2K)
+
 Hobbys+: Sistemas Operativos Juegos y Software Retro
 
 Windows Preferido: Windows 98SE, W2K y W7
+
 Windows Utilizado Actualmente. Windows 11 y Windows Server 2022
 
 Linux Preferido: Debian, Q4OS
+
 Linux Utilizado Actualmente: Mint Mate
 
 [X] Sitio web Personal
