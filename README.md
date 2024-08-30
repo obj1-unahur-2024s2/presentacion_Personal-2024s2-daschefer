@@ -1,8 +1,25 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
+
+# Presentacion Personal:
+
+Nombre: Diego Schefer
+Apodo: Sheshu
+Profesión: Asistente de Sistemas.
+
+Hobbys: Coleccionar Computadoras Antiguas (del 80´ al Y2K)
+Hobbys+: Sistemas Operativos Juegos y Software Retro
+
+Windows Preferido: Windows 98SE, W2K y W7
+Windows Utilizado Actualmente. Windows 11 y Windows Server 2022
+
+Linux Preferido: Debian, Q4OS
+Linux Utilizado Actualmente: Mint Mate
+
+Familia: Una Hija divina de 13 años llamada Valentina, quien en oportunidades me acompaña a la Facu como oyente lo cual le encanta ya que la hace "sentirse grande" :)
+
+
 # Programación con objetos I
-// Muchas Gracias!
 
 En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
 Para ello usaremos como herramienta el lenguaje Wollok.
